@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "front-end",
+  "version": "1.0.0",
+  "description": "prototype",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -p 8436"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manu07Alvarez/Portfolio-FrontEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manu07Alvarez/Portfolio-FrontEnd/issues"
+  },
+  "homepage": "https://github.com/Manu07Alvarez/Portfolio-FrontEnd#readme"
+}
